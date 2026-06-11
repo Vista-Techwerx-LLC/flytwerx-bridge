@@ -1,6 +1,6 @@
 {
-  "version": "1.0.6",
-  "url": "https://github.com/Vista-Techwerx-LLC/flytwerx-bridge/releases/download/v1.0.6/FlytWERX-Bridge.exe",
-  "sha256": "B05F6A9E736B65A79621AF2A9D42BE0AF790017FE207E4D8B9C9EEC9C0195CEB",
-  "notes": "FlytWERX Bridge v1.0.6"
+    "version":  "1.0.7",
+    "url":  "https://github.com/Vista-Techwerx-LLC/flytwerx-bridge/releases/download/v1.0.7/FlytWERX-Bridge.exe",
+    "sha256":  "76E1AD8FA921A0E52523DC15BDA97197AE077E77ED668473F42BCDE7BE98705F",
+    "notes":  "FlytWERX Bridge v1.0.7"
 }
