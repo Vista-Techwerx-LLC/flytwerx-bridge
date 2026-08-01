@@ -1,6 +1,6 @@
 {
     "version":  "1.0.8",
-    "url":  "https://github.com/Vista-Techwerx-LLC/flytwerx-bridge/releases/download/v1.0.8/FlytWERX-Bridge.exe",
-    "sha256":  "C1D77EA2C6A14E1586BE0BD432517908AC52C3F5986913C2164F163DE42C0BE8",
-    "notes":  "FlytWERX Bridge v1.0.8"
+    "url":  "https://github.com/Vista-Techwerx-LLC/flytwerx-bridge/releases/download/v1.1.0/FlytWERX-Bridge.exe",
+    "sha256":  "E87C31EF9CC3E61EADB5497BB5A77D586402D1E77134B930108A6B0ABFF3A2D2",
+    "notes": "FlytWERX Bridge v1.1.0 — MSFS + X-Plane (Windows), X-Plane (macOS)"
 }
