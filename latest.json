@@ -1,11 +1,11 @@
 {
-  "version": "1.1.0",
-  "url": "https://github.com/Vista-Techwerx-LLC/flytwerx-bridge/releases/download/v1.1.0/FlytWERX-Bridge.exe",
-  "sha256": "E87C31EF9CC3E61EADB5497BB5A77D586402D1E77134B930108A6B0ABFF3A2D2",
-  "notes": "FlytWERX Bridge v1.1.0 — MSFS + X-Plane (Windows), X-Plane (macOS)",
+  "version": "1.1.1",
+  "url": "https://github.com/Vista-Techwerx-LLC/flytwerx-bridge/releases/download/v1.1.1/FlytWERX-Bridge.exe",
+  "sha256": "F9DBF15333E0C0FAC7D0C65643F27490E8182A76D7750A5EDD1B5A9FEC2673D9",
+  "notes": "FlytWERX Bridge v1.1.1 — local/cloud sync fixes, Local+Cloud dual stream, Profile ID reclaim",
   "windows": {
-    "url": "https://github.com/Vista-Techwerx-LLC/flytwerx-bridge/releases/download/v1.1.0/FlytWERX-Bridge.exe",
-    "sha256": "E87C31EF9CC3E61EADB5497BB5A77D586402D1E77134B930108A6B0ABFF3A2D2"
+    "url": "https://github.com/Vista-Techwerx-LLC/flytwerx-bridge/releases/download/v1.1.1/FlytWERX-Bridge.exe",
+    "sha256": "F9DBF15333E0C0FAC7D0C65643F27490E8182A76D7750A5EDD1B5A9FEC2673D9"
   },
   "macos": {
     "url": "https://github.com/Vista-Techwerx-LLC/flytwerx-bridge/releases/download/v1.1.0/FlytWERX-Bridge.dmg",
